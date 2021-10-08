@@ -1,37 +1,121 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="CSS/estilo.css">
+    <title>Maria Luiza Arroyo </title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <nav class="nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#moda">Moda</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Beleza">Beleza</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Autocuidado</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Dicas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"></a>
+                </li>
+            </nav>
+        </div>
+        <div class="row">
+            <div class="col d-flex justify-content-center">
+                <img class="img-fluid" src="imgs/perfil.jpg" width="30%" alt="perfil">
+            </div>
+        </div>
+        <div class="row" id="Moda">
+            <div class="col">
+            <p>asdfasfd</p>    
+            </div>
+        </div>
 
-You can use the [editor on GitHub](https://github.com/xmababy/moda.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+        <div class="row" id="">
+            <div class="col">
+            <p></p>    
+            </div>
+        </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+        <div class="row">
+            <div class="col">
+            <p></p>    
+            </div>
+        </div>
+    </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="CSS/estilo.css">
+    <title>Maria Luiza Arroyo</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <nav class="nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#Moda">Moda</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Beleza">Beleza</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Autocuidado</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Dicas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"></a>
+                </li>
+            </nav>
+        </div>
+        <div class="row">
+            <div class="col d-flex justify-content-center">
+                <img class="img-fluid" src="imgs/perfil.jpg" width="30%" alt="perfil">
+            </div>
+        </div>
+        <div class="row" id="Moda">
+            <div class="col">
+            <p>asdfasfd</p>    
+            </div>
+        </div>
 
-```markdown
-Syntax highlighted code block
+        <div class="row" id="">
+            <div class="col">
+            <p></p>    
+            </div>
+        </div>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+        <div class="row">
+            <div class="col">
+            <p></p>    
+            </div>
+        </div>
+    </div>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xmababy/moda.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
